@@ -1,1 +1,1 @@
-# Hibernate-file-accessing-demo
+# Hibernate-data/file-accessing-demo
